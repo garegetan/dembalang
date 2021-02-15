@@ -58,8 +58,8 @@ sleep 1
 toilet -f big -F gay WELLCOME
 
 echo $yellow"======================================="
-echo $yellow"              AUTHOR : FAUZAN PRATAMA
-echo $yellow"              KONTAK  : 081276754581
+echo $yellow"              AUTHOR : FAUZAN PRATAMA"
+echo $yellow"              KONTAK  : 081276754581"
 echo $yellow"======================================="
 echo $green "======================================="
 echo $green" [ 01 ] BUG TSEL WHATSAPP"
